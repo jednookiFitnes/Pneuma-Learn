@@ -1,0 +1,8 @@
+{
+  "name": "PneumoSafe Academy & Studio",
+  "description": "Interaktywna platforma edukacyjna i studio inżynierskie z zakresu pneumatyki oraz bezpieczeństwa funkcjonalnego maszyn (EN ISO 13849-1, EN ISO 12100) na podstawie wytycznych Festo, Pilz i IFA Report 2/2017e.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
